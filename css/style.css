@@ -1,0 +1,175 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  color: #000;
+  font-weight: 300;
+}
+
+p{
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.logo img{
+  width: 200px;
+}
+
+.hero-section{
+  background: url("../images/header-bg.png") -400px 0 no-repeat;
+  height: 700px;
+}
+
+.hero-section .col-md-6 > p{
+  margin-top: 30px;
+  font-size: 1.3em!important;
+}
+
+.hero-section h3{
+  margin-top: 12em;
+  color: #FFF;
+      font-size: 1.6em;
+  font-weight: 100;
+}
+
+.hero-section h1{
+  font-weight: bold;
+  line-height: 22px;
+  color: #FFF;
+  font-size: 3.5em;
+}
+
+
+.navbar-default {
+  background-color: rgba(0, 0, 0, 0.19);
+  height: 75px;
+  padding: 0px 0;
+  border-radius: 0;
+  border-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a {
+  font-size: 1em;
+  margin-top: 10px;
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+#cta-hero{
+  background: #F37C3D;
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px 30px;
+  margin-top: 50px;
+  font-weight: 700;
+  font-size: 1.6em;
+}
+
+.body-content{
+  background: #14355C;
+  color: #fff;
+}
+
+.macbook-mockup{
+  position: relative;
+  top: 25px;
+}
+
+.slider-content{
+  margin-top: 200px;
+  color: #4F4F4F;
+}
+
+.slider-nav{
+  float: left;
+  margin: 20px 0 0 0;
+  padding: 0;
+}
+
+.slider-nav li{
+  float: left;
+  list-style: none;
+  margin-right: 10px;
+}
+
+footer{
+  background: #FAFAFA;
+  border-top:1px solid #CDCDCD;
+  border-bottom:1px solid #CDCDCD;
+}
+
+.footer-box{
+  height: 350px;
+}
+
+.footer-box.box-1{
+  border-right: 1px solid #CDCDCD;
+  padding: 50px 0;
+}
+
+.footer-box.box-2{
+  border-right: 1px solid #CDCDCD;
+  padding: 50px;
+}
+
+.footer-box.box-3{
+  padding: 50px;
+}
+
+.footer-nav{
+  float: left;
+  margin-left: 20px;
+}
+
+.footer-nav li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.footer-nav li a{
+  color: #4F4F4F;
+  font-size: 1.1em;
+  font-weight: 400;
+}
+
+.footer-nav li.footer-nav-head{
+  list-style: none;
+  font-size: 1.2em;
+}
+
+#sendform{
+  background: #F37C3D;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.2em;
+  padding: 10px 12px;
+}
+
+.small-footer{
+  padding: 20px 75px;
+  color: #616161;
+}
+
+/* Media Queries */
+@media screen and (max-width: 480px){
+
+
+}
+@media screen and (max-width: 750px){
+
+ 
+}
+@media (max-width: 767px){
+    
+
+}
+@media screen and (max-width: 825px){
+
+ 
+}
+@media (max-width: 991px) and (min-width: 768px){
+
+}
+
