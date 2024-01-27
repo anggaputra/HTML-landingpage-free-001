@@ -14,7 +14,7 @@ p{
 }
 
 .hero-section{
-  background: url("../images/header-bg.png") -400px 0 no-repeat;
+  background: url("../images/header-bg.png") 0 0 no-repeat;
   height: 700px;
 }
 
